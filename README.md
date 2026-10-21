@@ -2,6 +2,8 @@
 
 A custom version of the Windows Pandora desktop app with a dark-mode appearance.
 
+![Pandora for Windows in dark mode, showing My Collection and the playback controls](images/pandora-dark-mode.png)
+
 ## Download
 
 **[Download Pandora Dark Mode (ZIP)](https://github.com/tylerwyler9-ui/PandoraDarkMode/archive/refs/heads/main.zip)**
